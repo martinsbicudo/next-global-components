@@ -1,0 +1,15 @@
+{
+  "name": "next-global-components",
+  "author": "martinsbicudo",
+  "description": "This plugin implements Global Components on Next.js.",
+  "version": "0.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "martinsbicudo/next-global-components",
+  "keywords": [
+    "next",
+    "react",
+    "global",
+    "components"
+  ]
+}
